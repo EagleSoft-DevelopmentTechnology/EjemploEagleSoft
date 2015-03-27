@@ -33,7 +33,7 @@ public class MainActivity extends ActionBarActivity {
         if (id == R.id.action_settings) {
             return true;
         }
-        //no mames!! que pedo con esto
+        //no mames!! que pedo con esto,
 
         return super.onOptionsItemSelected(item);
     }
