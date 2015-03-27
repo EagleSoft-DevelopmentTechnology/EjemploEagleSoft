@@ -33,6 +33,7 @@ public class MainActivity extends ActionBarActivity {
         if (id == R.id.action_settings) {
             return true;
         }
+        //no mames!!
 
         return super.onOptionsItemSelected(item);
     }
